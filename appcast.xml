@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure url="https://drunisa007.github.io/updater_xml/release.dmg" length="18764414" type="application/octet-stream" sparkle:edSignature="QYRzfjtPRUvCR209+6Pv4pm4ZYhh6VtqeRhDBETl4AEVThQioomqNP5m71Ycq5xateYvmcEkQbTUc4fRuLtIAg=="/>
+            <enclosure url="https://github.com/drunisa007/updater_xml/releases/download/prod/release.dmg" length="18764414" type="application/octet-stream" sparkle:edSignature="QYRzfjtPRUvCR209+6Pv4pm4ZYhh6VtqeRhDBETl4AEVThQioomqNP5m71Ycq5xateYvmcEkQbTUc4fRuLtIAg=="/>
         </item>
     </channel>
 </rss>
