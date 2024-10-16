@@ -4,11 +4,11 @@
         <title>sparkle_update</title>
         <item>
             <title>1.0.0</title>
-            <pubDate>Wed, 16 Oct 2024 17:52:21 +0700</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <pubDate>Wed, 16 Oct 2024 19:25:46 +0700</pubDate>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/drunisa007/updater_xml/releases/download/prod/release.dmg" length="18764414" type="application/octet-stream" sparkle:edSignature="QYRzfjtPRUvCR209+6Pv4pm4ZYhh6VtqeRhDBETl4AEVThQioomqNP5m71Ycq5xateYvmcEkQbTUc4fRuLtIAg=="/>
+            <enclosure url="https://github.com/drunisa007/updater_xml/releases/download/prod/release.dmg" length="37607251" type="application/octet-stream" sparkle:edSignature="LZC2BQdHXa/Stn+GJMjK4/0gzEQC7rpAa3Wvj6hgZInJ25z/Td6CMFpIqLyrrbuZxISLDUtDU/O86mm+7hO0DQ=="/>
         </item>
     </channel>
 </rss>
