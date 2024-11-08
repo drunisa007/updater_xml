@@ -3,10 +3,10 @@
     <channel>
         <title>Shore Crsqlite</title>
         <item>
-            <title>1.0.0</title>
+            <title>1.0.5</title>
             <pubDate>Tue, 22 Oct 2024 09:00:03 +0700</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/drunisa007/updater_xml/releases/download/prod/release.dmg" length="22447508" type="application/octet-stream" sparkle:edSignature="kkSEHSexfdaCTWbs8eqhvOQKx/JyepKNBeqSU7WmPf7upaJnMAJJOy7eYQY6j8yR7Y2mLST8KPu/sbIo8lh3Dg=="/>
         </item>
